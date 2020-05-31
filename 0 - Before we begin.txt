@@ -1,0 +1,20 @@
+Before we begin
+===============
+
+1. Get to know the RStudio (and RStudio Cloud) IDE environment.
+
+2. Get to know file types:
+
+- *.txt extension is a plain text file (e.g. this file). It typically contains tab-delimited data or, as in this case, just plain text. 
+- *.R extension is an R script. You'll notice syntax highlighting and can execute commands in these files.
+
+There are many other types of files that you can have in RStudio. Check the file extension or the lower right hand corner of the editor's window to confirm the file type.
+
+There are another 2 popular file types:
+
+- *.md extension is a markdown file and contains information about how to format text output. The output can be an HTML webpage, a Microsoft Word document or a PDF.
+- *.Rmd extenion is an R markdown file which, in addition to markdown, includes R code. The output is a document that includes text and the output of an R analysis in a single report.
+
+I discuss Rmarkdown in the "Reproducible Research" chapter of the book. For the sake of simplicity, we'll focus on R scripts in the course.
+
+3. Get to know your keyboard shortcut commands! See Appendix B in the book.
