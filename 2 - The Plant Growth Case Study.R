@@ -1,5 +1,9 @@
 # Plant Growth Case Study ----
 
+# Load packages ----
+# This should already be loaded if you executed the commands in the previous file.
+library(tidyverse)
+
 # A built-in data set ----
 data(PlantGrowth)
 

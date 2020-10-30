@@ -1,4 +1,4 @@
-# Element 2: Functions (i.e. "verbs") ----
+# Element 1: Functions (i.e. "verbs") ----
 # Everything that happens, is because of a function
 
 # Arithmetic operators
@@ -86,4 +86,3 @@ sum(foo2) + foo2 #
 
 # Exercise: Calculate y = 1.12x − 0.4 for xx
 # i.e. y = mx + b
-y <- (1.12 * xx) - 0.4

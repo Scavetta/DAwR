@@ -1,5 +1,9 @@
-# Element 4: Logical Expressions ----
+# Element 3: Logical Expressions ----
 # Asking and combining TRUE/FALSE questions
+
+# Load packages ----
+# This should already be loaded if you executed the commands in the previous file.
+library(tidyverse)
 
 # Asking questions ----
 # There a 6 Relational Operators Table 9.1

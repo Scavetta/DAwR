@@ -1,5 +1,0 @@
-Condition	Fold Change
-c +/+	1.00
-c -/-	1.00
-d -/-	4.00
-d +/+	5.20

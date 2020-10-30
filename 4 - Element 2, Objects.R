@@ -1,5 +1,9 @@
-# Element 3: Objects (nouns) ----
+# Element 2: Objects (nouns) ----
 # Anything that exists is an object
+
+# Load packages ----
+# This should already be loaded if you executed the commands in the previous file.
+library(tidyverse)
 
 # Vectors - 1-dimensional, homogenous
 # Everything in the values section

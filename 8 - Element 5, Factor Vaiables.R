@@ -1,8 +1,11 @@
 # Element 6: Factor Variables (with levels)
 # i.e. Categorical, qualitative, discrete variables
 # with a number of "groups"
-
 # i.e. A small and known number of discrete groups
+
+# Load packages ----
+# This should already be loaded if you executed the commands in the previous file.
+library(tidyverse)
 
 glimpse(PlantGrowth)
 # Notice that the levels are printed:

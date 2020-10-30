@@ -4,7 +4,7 @@
 # Always begin your R scripts with a descriptive header
 
 # Remove objects from Environment ----
-# (not widely recommended, but I still like it)
+# (not widely recommended, but it's still useful)
 rm(list = ls())
 
 # Load packages ----

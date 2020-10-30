@@ -1,6 +1,10 @@
 # Element 5: Indexing
 # Finding information by position using []
 
+# Load packages ----
+# This should already be loaded if you executed the commands in the previous file.
+library(tidyverse)
+
 # Vectors (1-dimensional) ----
 foo1
 foo1[6] # The 6th element
